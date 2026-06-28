@@ -1,0 +1,201 @@
+,Day,Time,Worker,Location,Hours,Tips
+0,Wednesday,Afternoon,David,Gasson Hall,11,102
+1,Sunday,Evening,Bob,Messina,4,82
+2,Wednesday,Evening,Alice,SAAS,10,122
+3,Saturday,Afternoon,Bob,President's Suite,4,173
+4,Thursday,Evening,Eve,Mcelroy,10,96
+5,Friday,Afternoon,Bob,SAAS,9,113
+6,Tuesday,Afternoon,Alice,Murray,2,23
+7,Friday,Afternoon,Alice,Gasson Hall,5,137
+8,Thursday,Morning,Alice,Gasson Hall,9,87
+9,Tuesday,Morning,Bob,Messina,3,39
+10,Friday,Evening,David,Messina,5,130
+11,Wednesday,Morning,Alice,SAAS,4,39
+12,Tuesday,Evening,Charlie,Mcelroy,4,46
+13,Wednesday,Evening,Charlie,Messina,3,48
+14,Sunday,Afternoon,Eve,SAAS,10,118
+15,Thursday,Afternoon,Charlie,Gasson Hall,8,112
+16,Saturday,Morning,Eve,Mcelroy,11,133
+17,Sunday,Morning,Eve,St. Mary's Hall,10,217
+18,Tuesday,Evening,Bob,Murray,11,336
+19,Sunday,Afternoon,Bob,2101,2,52
+20,Friday,Afternoon,Charlie,St. Mary's Hall,2,51
+21,Saturday,Evening,Eve,2101,11,437
+22,Wednesday,Afternoon,Eve,SAAS,6,73
+23,Sunday,Afternoon,Eve,Gasson Hall,12,284
+24,Sunday,Afternoon,Charlie,St. Mary's Hall,9,158
+25,Saturday,Morning,David,Murray,5,116
+26,Friday,Evening,Charlie,Murray,8,199
+27,Saturday,Morning,Eve,Gasson Hall,3,61
+28,Tuesday,Evening,Alice,O'Neill Library,9,61
+29,Saturday,Evening,Alice,SAAS,5,77
+30,Tuesday,Evening,Bob,President's Suite,8,285
+31,Sunday,Morning,David,O'Neill Library,6,48
+32,Wednesday,Evening,Bob,Murray,12,397
+33,Wednesday,Morning,Alice,Mcelroy,9,58
+34,Saturday,Morning,Eve,President's Suite,12,378
+35,Sunday,Afternoon,David,Gasson Hall,11,127
+36,Friday,Morning,Eve,President's Suite,10,255
+37,Monday,Afternoon,Charlie,Stokes,6,60
+38,Thursday,Evening,Bob,SAAS,9,114
+39,Monday,Afternoon,Eve,2101,9,176
+40,Wednesday,Afternoon,Bob,President's Suite,5,67
+41,Friday,Evening,Alice,Mcelroy,8,123
+42,Thursday,Afternoon,Alice,SAAS,9,97
+43,Wednesday,Morning,Charlie,Murray,8,107
+44,Thursday,Evening,Eve,Mcelroy,8,88
+45,Wednesday,Morning,Bob,SAAS,4,21
+46,Friday,Afternoon,David,Gasson Hall,9,139
+47,Wednesday,Morning,David,O'Neill Library,7,37
+48,Sunday,Afternoon,Alice,President's Suite,5,153
+49,Tuesday,Afternoon,David,2101,2,29
+50,Tuesday,Afternoon,Bob,2101,3,66
+51,Tuesday,Evening,Alice,SAAS,9,76
+52,Tuesday,Evening,Eve,Stokes,11,221
+53,Sunday,Evening,Eve,O'Neill Library,8,107
+54,Friday,Morning,David,SAAS,9,103
+55,Saturday,Evening,Alice,St. Mary's Hall,7,128
+56,Monday,Afternoon,David,Gasson Hall,3,44
+57,Monday,Afternoon,Alice,Gasson Hall,2,51
+58,Monday,Evening,Charlie,O'Neill Library,10,55
+59,Sunday,Afternoon,Alice,President's Suite,6,127
+60,Sunday,Evening,David,Gasson Hall,8,154
+61,Saturday,Evening,Bob,Stokes,9,188
+62,Wednesday,Evening,David,President's Suite,8,211
+63,Tuesday,Evening,Charlie,O'Neill Library,7,44
+64,Sunday,Afternoon,David,St. Mary's Hall,2,28
+65,Friday,Afternoon,Eve,2101,7,144
+66,Monday,Evening,David,SAAS,6,37
+67,Saturday,Afternoon,Alice,Stokes,3,81
+68,Tuesday,Morning,Alice,SAAS,12,104
+69,Wednesday,Morning,Alice,Gasson Hall,12,221
+70,Saturday,Afternoon,David,Messina,12,289
+71,Saturday,Morning,Bob,Messina,11,331
+72,Saturday,Afternoon,Alice,2101,12,491
+73,Saturday,Morning,Alice,Messina,8,181
+74,Wednesday,Afternoon,Charlie,2101,11,154
+75,Monday,Evening,David,Messina,6,141
+76,Wednesday,Morning,David,Messina,8,106
+77,Saturday,Afternoon,Charlie,Stokes,11,165
+78,Wednesday,Evening,Bob,Messina,9,179
+79,Tuesday,Morning,David,2101,9,151
+80,Wednesday,Evening,Charlie,Messina,8,109
+81,Saturday,Morning,David,Mcelroy,8,68
+82,Saturday,Morning,Alice,SAAS,9,90
+83,Tuesday,Morning,David,Stokes,11,91
+84,Wednesday,Afternoon,David,Messina,5,80
+85,Monday,Evening,David,SAAS,2,19
+86,Saturday,Afternoon,Charlie,Murray,7,115
+87,Friday,Afternoon,Bob,St. Mary's Hall,5,75
+88,Saturday,Afternoon,Eve,St. Mary's Hall,10,246
+89,Friday,Evening,David,Gasson Hall,8,198
+90,Sunday,Morning,Alice,Stokes,4,81
+91,Thursday,Afternoon,Eve,Murray,5,96
+92,Sunday,Evening,Alice,2101,12,421
+93,Thursday,Afternoon,Bob,SAAS,2,15
+94,Sunday,Morning,Bob,O'Neill Library,11,180
+95,Sunday,Evening,Alice,St. Mary's Hall,12,142
+96,Thursday,Evening,Eve,Messina,12,307
+97,Tuesday,Afternoon,Bob,Gasson Hall,12,190
+98,Monday,Morning,David,Messina,5,78
+99,Tuesday,Morning,Charlie,Mcelroy,5,27
+100,Thursday,Afternoon,David,Gasson Hall,3,33
+101,Monday,Afternoon,Charlie,President's Suite,5,74
+102,Sunday,Afternoon,Alice,President's Suite,2,98
+103,Tuesday,Morning,Alice,Stokes,11,99
+104,Tuesday,Afternoon,David,St. Mary's Hall,4,37
+105,Saturday,Evening,Alice,Murray,10,356
+106,Tuesday,Afternoon,David,St. Mary's Hall,7,102
+107,Thursday,Afternoon,David,Stokes,8,127
+108,Monday,Afternoon,Charlie,SAAS,8,31
+109,Monday,Afternoon,Charlie,St. Mary's Hall,2,6
+110,Monday,Evening,David,SAAS,2,16
+111,Thursday,Afternoon,Eve,O'Neill Library,9,79
+112,Friday,Evening,Alice,Messina,11,312
+113,Wednesday,Evening,Bob,Stokes,5,97
+114,Tuesday,Afternoon,David,Stokes,9,89
+115,Sunday,Afternoon,Alice,Stokes,9,209
+116,Monday,Afternoon,David,Messina,3,64
+117,Friday,Evening,Eve,Mcelroy,10,105
+118,Saturday,Evening,Bob,Stokes,4,64
+119,Tuesday,Morning,Alice,St. Mary's Hall,2,42
+120,Friday,Afternoon,David,Mcelroy,10,90
+121,Saturday,Evening,Charlie,Gasson Hall,12,228
+122,Friday,Afternoon,David,Mcelroy,2,30
+123,Thursday,Afternoon,Eve,Gasson Hall,10,100
+124,Sunday,Afternoon,David,Mcelroy,5,28
+125,Saturday,Afternoon,David,Murray,6,150
+126,Monday,Afternoon,Charlie,SAAS,7,41
+127,Thursday,Afternoon,Bob,Stokes,12,98
+128,Saturday,Afternoon,Alice,St. Mary's Hall,10,255
+129,Saturday,Afternoon,David,Gasson Hall,9,150
+130,Tuesday,Evening,Bob,Stokes,4,82
+131,Monday,Evening,Alice,Mcelroy,9,103
+132,Wednesday,Afternoon,Eve,SAAS,2,23
+133,Friday,Morning,Eve,St. Mary's Hall,4,145
+134,Wednesday,Afternoon,David,Stokes,9,108
+135,Thursday,Morning,Eve,St. Mary's Hall,10,135
+136,Friday,Morning,Eve,Messina,3,72
+137,Monday,Morning,Alice,2101,6,135
+138,Thursday,Evening,Bob,Mcelroy,3,17
+139,Saturday,Afternoon,Bob,Mcelroy,10,114
+140,Sunday,Morning,Eve,St. Mary's Hall,10,173
+141,Friday,Afternoon,Bob,Mcelroy,3,61
+142,Friday,Evening,Eve,SAAS,9,144
+143,Sunday,Evening,David,SAAS,8,125
+144,Sunday,Afternoon,David,St. Mary's Hall,2,60
+145,Sunday,Afternoon,Alice,SAAS,8,70
+146,Tuesday,Morning,Alice,Murray,7,148
+147,Sunday,Afternoon,Charlie,President's Suite,2,45
+148,Monday,Afternoon,Bob,Mcelroy,12,112
+149,Tuesday,Morning,Bob,Murray,3,62
+150,Friday,Evening,Alice,SAAS,2,33
+151,Monday,Afternoon,David,SAAS,8,53
+152,Saturday,Morning,Charlie,Mcelroy,2,12
+153,Tuesday,Afternoon,Alice,Gasson Hall,2,33
+154,Sunday,Afternoon,David,Gasson Hall,6,63
+155,Wednesday,Morning,Eve,Murray,12,313
+156,Thursday,Evening,Eve,SAAS,2,2
+157,Tuesday,Evening,Eve,Gasson Hall,9,169
+158,Thursday,Morning,Alice,Mcelroy,12,57
+159,Saturday,Morning,Eve,Gasson Hall,10,261
+160,Thursday,Afternoon,Eve,Murray,8,143
+161,Friday,Afternoon,Bob,President's Suite,7,225
+162,Thursday,Afternoon,Alice,Stokes,7,141
+163,Thursday,Afternoon,Eve,2101,9,220
+164,Tuesday,Morning,Bob,Murray,6,170
+165,Monday,Morning,David,O'Neill Library,6,48
+166,Tuesday,Afternoon,Eve,Stokes,8,109
+167,Saturday,Morning,Eve,Stokes,10,251
+168,Thursday,Evening,Alice,St. Mary's Hall,11,164
+169,Thursday,Afternoon,Bob,Gasson Hall,4,74
+170,Tuesday,Afternoon,Alice,Mcelroy,9,91
+171,Wednesday,Afternoon,David,Messina,9,166
+172,Wednesday,Morning,Eve,Mcelroy,8,79
+173,Sunday,Afternoon,Alice,Mcelroy,12,127
+174,Thursday,Evening,Eve,O'Neill Library,2,38
+175,Saturday,Evening,Alice,President's Suite,4,142
+176,Sunday,Evening,Eve,Murray,2,51
+177,Saturday,Morning,Charlie,President's Suite,12,393
+178,Monday,Morning,Eve,SAAS,12,128
+179,Wednesday,Afternoon,Charlie,Murray,4,43
+180,Thursday,Afternoon,Alice,O'Neill Library,8,97
+181,Monday,Evening,Bob,2101,7,251
+182,Monday,Afternoon,Eve,2101,2,47
+183,Friday,Evening,Bob,2101,4,128
+184,Sunday,Evening,David,Mcelroy,8,63
+185,Saturday,Evening,Eve,Mcelroy,10,136
+186,Monday,Afternoon,Eve,Mcelroy,7,83
+187,Saturday,Afternoon,Charlie,President's Suite,9,199
+188,Sunday,Afternoon,Bob,St. Mary's Hall,5,112
+189,Friday,Morning,Bob,Gasson Hall,5,78
+190,Monday,Morning,Charlie,O'Neill Library,9,58
+191,Wednesday,Evening,Charlie,2101,6,122
+192,Sunday,Afternoon,Alice,Stokes,9,99
+193,Friday,Evening,David,SAAS,11,153
+194,Sunday,Afternoon,Bob,Messina,8,138
+195,Friday,Morning,Charlie,O'Neill Library,4,23
+196,Monday,Afternoon,Eve,Stokes,5,76
+197,Friday,Afternoon,Charlie,Murray,6,149
+198,Monday,Morning,Charlie,2101,10,141
+199,Saturday,Morning,Bob,President's Suite,3,89
